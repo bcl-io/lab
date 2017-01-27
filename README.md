@@ -1,2 +1,3 @@
 # lab
-Public Lab Wiki
+
+* [Public Lab Wiki](https://github.com/bcl-io/lab/wiki)
